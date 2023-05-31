@@ -17,7 +17,7 @@ export default function SignInOut() {
           >
             <b className="flex items-center">
               <AiFillGoogleCircle className="text-2xl font-bold mr-1" />
-              <b>Signout With Google</b>
+              <b>Sign Out With Google</b>
             </b>
           </button>
         </>
